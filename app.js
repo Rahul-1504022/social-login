@@ -7,3 +7,6 @@ require('./middlewares/routes')(app);
 app.use(error);
 
 module.exports = app;
+
+//OAuth = Open Authentication
+//passport.js
